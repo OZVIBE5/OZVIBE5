@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OZVIBE5
-- 👀 I’m interested in Music Production and Audio Engineering
-- 🌱 I’m currently learning Music Produciton and Audio Engineering
+- 👀 I’m interested in Music Production, Audio Engineering and Multi-Modal Machine Learning
+- 🌱 I’m currently learning Multi-Modal Machine Learning, Music Produciton and Audio Engineering
 - 💞️ I’m looking to collaborate on Holistic Cross Modal Music/Medical Projects
 - 📫 How to reach me ozzvibe.5@gmail.com
 - 😄 Pronouns: He/Him
